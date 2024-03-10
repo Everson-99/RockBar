@@ -53,9 +53,10 @@ const GoogleMaps = () => {
         ></iframe>
       </MapContainer>
       <InfoContainer>
-        <img src={fotomaps} alt="Descrição da imagem" style={{ maxWidth: '100%', height: 'auto', marginBottom: '10px',marginTop:'16%' }} />
-        <a href="https://seusite.com" style={{ textDecoration: 'none', color: 'white', display: 'flex', alignItems: 'center', cursor: 'pointer', marginLeft: '100px' }}>
-          <img src={icomWhats} alt="Descrição da imagem" style={{ maxWidth: '10%', height: 'auto' }} />
+        <img src={fotomaps} alt="Descrição da imagem" style={{ maxWidth: '55%', height: 'auto', marginBottom: '10px',marginTop:'14%' }} />
+        <a href="https://seusite.com" style={{ textDecoration: 'none', color: 'white', display: 'flex', alignItems: 'center', cursor: 'pointer', marginLeft: '25px' }}>
+        
+          <img src={icomWhats} alt="Descrição da imagem" style={{ maxWidth: '9%', height: 'auto' }} />
           <p style={{ fontSize: '18px' }}>(48)988191707</p>
         </a>
       </InfoContainer>
