@@ -54,7 +54,7 @@ const GoogleMaps = () => {
       </MapContainer>
       <InfoContainer>
         <img src={fotomaps} alt="Descrição da imagem" style={{ maxWidth: '55%', height: 'auto', marginBottom: '10px',marginTop:'14%' }} />
-        <a href="https://seusite.com" style={{ textDecoration: 'none', color: 'white', display: 'flex', alignItems: 'center', cursor: 'pointer', marginLeft: '25px' }}>
+        <a href="https://wa.me/5548988191707?text=+Ol%C3%A1+Estive+conferindo+o+site+do+Rock+Bar+e+fiquei+super+interessado%28a%29+em+visitar%21+" style={{ textDecoration: 'none', color: 'white', display: 'flex', alignItems: 'center', cursor: 'pointer', marginLeft: '25px' }}>
         
           <img src={icomWhats} alt="Descrição da imagem" style={{ maxWidth: '9%', height: 'auto' }} />
           <p style={{ fontSize: '18px' }}>(48)988191707</p>

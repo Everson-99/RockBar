@@ -31,10 +31,10 @@ export function Footer() {
         <RedesSociais>
           <h3>Redes Sociais</h3>
           <ul>
-            <a href="###">
+            <a href="https://wa.me/5548988191707?text=+Ol%C3%A1+Estive+conferindo+o+site+do+Rock+Bar+e+fiquei+super+interessado%28a%29+em+visitar%21+">
               <img src={imgWhatsFooter} alt="imgElo" className='logo' style={{ width: '35px', height: '35px', cursor: 'pointer', marginRight: -5 }} />
             </a>
-            <a href="###">
+            <a href="">
               <img src={imgFace} alt="imgElo" className='logo' style={{ width: '26px', height: '35px', cursor: 'pointer', marginLeft: 21 }} />
             </a>
             <a href="###">

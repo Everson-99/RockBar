@@ -10,7 +10,7 @@ export function Home() {
       <Header />
       <Menu />
       <BarLocation/>
-      <Cardapio/>
+      {/* <Cardapio/> */}
       <Footer/>
     
     </div>
