@@ -9,7 +9,7 @@ export function Header() {
       <PetflixTitle>
         <h1>Lanches</h1>
         <Imglogo src={logo} alt="logo" className='logo' />
-        <h1>Porção</h1>
+        <h1>Porções</h1>
       </PetflixTitle>
 
       

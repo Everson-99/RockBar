@@ -3,16 +3,16 @@ import { Header } from '../../Componentes/header';
 import Menu from '../../Componentes/menu';
 import BarLocation from '../../Componentes/localizacao'
 import {Footer} from'../../Componentes/footer'
-import {Cardapio} from '../../Componentes/Gastronomia'
+import MenuGastronomia from '../../Componentes/Gastronomia/MenuGastronomia.jsx'
+
 export function Home() {
   return (
     <div>
       <Header />
       <Menu />
       <BarLocation/>
-      {/* <Cardapio/> */}
+      <MenuGastronomia/>
       <Footer/>
-    
     </div>
   );
 }
